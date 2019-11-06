@@ -24,6 +24,8 @@ namespace MaterialSkin.Controls
         public string SelectedText { get { return baseTextBox.SelectedText; } set { baseTextBox.SelectedText = value; } }
         public string Hint { get { return baseTextBox.Hint; } set { baseTextBox.Hint = value; } }
 
+        public new string Name {  get { return baseTextBox.Name; } set { baseTextBox.Name = value; } }
+
         public int SelectionStart { get { return baseTextBox.SelectionStart; } set { baseTextBox.SelectionStart = value; } }
         public int SelectionLength { get { return baseTextBox.SelectionLength; } set { baseTextBox.SelectionLength = value; } }
         public int TextLength { get { return baseTextBox.TextLength; } }

@@ -1,0 +1,7 @@
+C:\Users\jschwilk\Downloads\MaterialSkin-master\MaterialSkin-master\bin\Release\MaterialSkin.dll
+C:\Users\jschwilk\Downloads\MaterialSkin-master\MaterialSkin-master\bin\Release\MaterialSkin.pdb
+C:\Users\jschwilk\Downloads\MaterialSkin-master\MaterialSkin-master\obj\Release\MaterialSkin.Properties.Resources.resources
+C:\Users\jschwilk\Downloads\MaterialSkin-master\MaterialSkin-master\obj\Release\MaterialSkin.csproj.GenerateResource.cache
+C:\Users\jschwilk\Downloads\MaterialSkin-master\MaterialSkin-master\obj\Release\MaterialSkin.csproj.CoreCompileInputs.cache
+C:\Users\jschwilk\Downloads\MaterialSkin-master\MaterialSkin-master\obj\Release\MaterialSkin.dll
+C:\Users\jschwilk\Downloads\MaterialSkin-master\MaterialSkin-master\obj\Release\MaterialSkin.pdb
